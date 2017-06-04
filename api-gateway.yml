@@ -14,7 +14,6 @@ zuul:
     doctor-webservice: /api/doctors/**
     patient-webservice: /api/patients/**
     appointment-webservice: /api/appointments/**
-    web-portal: /**
 
 # Define the Eureka server that handles service registration
 eureka:
